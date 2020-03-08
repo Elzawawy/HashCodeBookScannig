@@ -9,11 +9,19 @@ Each year, **Google** contributes to the competitve programming world with Hash 
 This year, had been my **first** contribution to the competition and I have teamed out with my friend **[Ahmed Morsy](https://github.com/AhmedMorsy95)**. And since we are in senior year , what a better possible name for a team than **JustLetMeGraduate**.
 
 ## Scores & Rankings for our implementention
+We have particped in the two rounds held by the Competition: **Online Qualification Round** and **Extended Round**. For each round, we show our scores and both our global and local (Egypt) rankings.
 
 ### Online Qualification Round
+| Score          	| 24,545,457 	|
+|----------------	|------------	|
+| Global Ranking 	| 2285 / 10724|
+| Egypt Ranking  	| 44 / 203    |
 
 ### Extended Round
+| Score          	| 26,343,420 	|
+|----------------	|------------	|
+| Global Ranking 	| 984 / 4722  |
+| Egypt Ranking  	| 18 / 110    |
 
-## Try it out
-
-## Conclusion
+## Problem: BookScanning 
+The full details of the Problem is available in [Official Problem Statment by Google](./BookScanningProblem.pdf). I really recommend to give it a read and start coding you way through your own implementation if you haven't partipated in the competition already. It's really worth every bit of your time ! 
